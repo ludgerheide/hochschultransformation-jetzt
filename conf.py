@@ -142,7 +142,7 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/assets/pdf/Hochschultransformation_jetzt.pdf", "PDF"),
+        ("/Hochschultransformation_jetzt.pdf", "PDF"),
         ("/inspirationen.html", "Inspirationen"),
         ("/unterzeichnende.html", "Zeichner*Innen"),
         ("/impressum.html", "Impressum"),
