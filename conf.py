@@ -144,7 +144,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/Hochschultransformation_jetzt.pdf", "PDF"),
         ("/inspirationen.html", "Inspirationen"),
-        ("/unterzeichnende.html", "Zeichner*Innen"),
+        ("/unterzeichnende.html", "Unterzeicher:innen"),
         ("/impressum.html", "Impressum"),
     ),
 }
