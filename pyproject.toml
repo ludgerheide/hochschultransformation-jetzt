@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "hochschultransformation-jetzt"
+version = "0.1.0"
+description = "Webseite von \"Hochschultransformation jetzt!\""
+authors = ["Ludger Heide <ludger.heide@tu-berlin.de>"]
+license = "WTFPL"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+Nikola = "^8.2.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
