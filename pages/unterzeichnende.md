@@ -15,7 +15,7 @@
 
 [Prof. Dr. Henning Austmann](https://stiftung-hochschullehre.de/externe-koepfe/henning-austmann/) – Hochschule Hannover
 
-[Lara Baumanns](Lhttps://stiftung-hochschullehre.de/externe-koepfe/lara-baumanns/) – Hochschule Niederrhein
+[Lara Baumanns](https://stiftung-hochschullehre.de/externe-koepfe/lara-baumanns/) – Hochschule Niederrhein
 
 [Judith Blättler](https://stiftung-hochschullehre.de/externe-koepfe/judith-blaettler/) – Universität Hohenheim
 
