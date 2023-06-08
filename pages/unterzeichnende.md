@@ -33,6 +33,8 @@
 
 [Prof. Dr. Isabelle Franzen-Reuter](https://stiftung-hochschullehre.de/externe-koepfe/isabelle-franzen-reuter/) – Fachhochschule Münster
 
+[Prof. Dr. Britta Maria Gossel](https://stiftung-hochschullehre.de/externe-koepfe/britta-maria-gossel/) – Hochschule für nachhaltige Entwicklung Eberswalde
+
 [Nora Große](https://stiftung-hochschullehre.de/externe-koepfe/nora-grosse/) – Freie Universität Berlin
 
 [Ludger Heide](https://stiftung-hochschullehre.de/externe-koepfe/ludger-heide/) – Technische Universität Berlin
