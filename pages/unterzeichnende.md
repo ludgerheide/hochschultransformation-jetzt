@@ -9,7 +9,7 @@
 .. type: text
 -->
 
-[Malena Anthofer](Malena Anthofer) – Ludwig-Maximilians-Universität
+[Malena Anthofer](https://stiftung-hochschullehre.de/externe-koepfe/malena-anthofer/) – Ludwig-Maximilians-Universität
 
 [Robina Aslam-Lanz](https://stiftung-hochschullehre.de/externe-koepfe/robina-aslam-lanz/) – Hochschule Rhein Main
 
