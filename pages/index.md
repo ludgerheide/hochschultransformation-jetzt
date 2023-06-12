@@ -9,8 +9,6 @@
 .. type: text
 -->
 
-**Diese Fassung ist die final verabschiedete Version vom 7. Juni 2023. Kleinere redaktionelle Korrekturen stehen noch aus.**
-
 ## Präambel
 
 Wir sind Vertreter:innen unterschiedlicher Disziplinen und aller Statusgruppen deutscher Hochschulen und Teilnehmende am Jahresprogramm 2022/2023 „Hochschullehre im Kontext von Nachhaltigkeit" der Stiftung Innovation in der Hochschullehre (StIL). Wir fühlen uns dem Konzept *Bildung für Nachhaltige Entwicklung (BNE)* verpflichtet. In diesem Sinne fordern wir, das Hochschulsystem nachhaltig zu transformieren, um die aktuellen und zukünftigen Herausforderungen bewältigen zu können. Um dies erfolgreich zu verändern und zu gestalten, muss eine kritische Masse von Akteur:innen diese Veränderung einfordern, gestalten, mittragen und kooperativ umsetzen.
