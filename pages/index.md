@@ -96,6 +96,6 @@ Manche von uns stellen die Gefahr heraus, dass auch vielen Wissenschaftler:innen
 
 Manche von uns fordern anzuerkennen, dass die Klimakrise nicht isoliert von Gerechtigkeitsaspekten wie Generationengerechtigkeit, Geschlechtergerechtigkeit und anderen intersektional verknüpften Dimensionen betrachtet und bewältigt werden kann, und plädieren daher für eine systematische Auseinandersetzung mit diesem Aspekt.
 
-[^1]: Nachhaltige Entwicklung ist ein Prozess. In diesem Sinne haben wir \"Hochschultransformation Jetzt!\" und das Addendum entwickelt. \"Hochschultransformation Jetzt!\" drückt einen Konsens aus, das Addendum ist eine Momentaufnahme einzelner im Juni 2023 laufender Diskussionsprozesse.
+[^1]: Nachhaltige Entwicklung ist ein Prozess. In diesem Sinne haben wir „Hochschultransformation Jetzt!“ und das Addendum entwickelt. „Hochschultransformation Jetzt!“ drückt einen Konsens aus, das Addendum ist eine Momentaufnahme einzelner im Juni 2023 laufender Diskussionsprozesse.
 
 
