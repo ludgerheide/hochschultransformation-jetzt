@@ -9,4 +9,4 @@
 .. type: text
 -->
 
-*An dieser Stelle wird sich bald (noch im Juni 2023) eine Liste von Next-Best-Practice-Beispielen verschiedener Hochschulen, von und für verschiedene Statusgruppen finden.*
+*An dieser Stelle wird sich bald (noch im Juli 2023) eine Liste von Next-Best-Practice-Beispielen verschiedener Hochschulen, von und für verschiedene Statusgruppen finden.*
