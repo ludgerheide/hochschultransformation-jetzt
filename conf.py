@@ -145,6 +145,7 @@ NAVIGATION_LINKS = {
         ("/Hochschultransformation_jetzt.pdf", "PDF"),
         ("/inspirationen.html", "Inspirationen"),
         ("/unterzeichnende.html", "Unterzeicher:innen"),
+        ("/mitzeichnen.html", "Mitzeichnen"),
         ("/pressemitteilung.html", "Pressemitteilung"),
         ("/impressum.html", "Impressum"),
     ),

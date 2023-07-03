@@ -9,6 +9,12 @@
 .. type: text
 -->
 
+## Mitzeichnen
+
+[Hier](mitzeichnen.html) finden Sie Informationen, wie sie diesen Aufruf mit unterzeichnen können.
+
+##  Unterzeicher:innen
+
 [Malena Anthofer](https://stiftung-hochschullehre.de/externe-koepfe/malena-anthofer/) – Ludwig-Maximilians-Universität
 
 [Robina Aslam-Lanz](https://stiftung-hochschullehre.de/externe-koepfe/robina-aslam-lanz/) – Hochschule Rhein Main
