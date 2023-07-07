@@ -13,7 +13,9 @@
 
 [Hier](mitzeichnen.html) finden Sie Informationen, wie sie diesen Aufruf mit unterzeichnen können.
 
-##  Unterzeicher:innen
+##  Erstunterzeicher:innen
+
+_Die folgenden Unterzeichner:Innen sind die Teilnehmer:innen des StIL-Jahresprogramms, die den Aufruf gemeinsam verfasst haben._
 
 [Malena Anthofer](https://stiftung-hochschullehre.de/externe-koepfe/malena-anthofer/) – Ludwig-Maximilians-Universität
 
@@ -83,7 +85,9 @@
 
 [Dr. Sanne Ziethen](https://stiftung-hochschullehre.de/externe-koepfe/sanne-ziethen/) – Stiftung Universität Hildesheim
 
-_Die folgenden Unterzeichner:Innen möchten ihre Unterstützung nach der Veröffentlichung des Aufrufs zum Ausdruck bringen_
+## Mitzeichner:innen
+
+_Die folgenden Unterzeichner:Innen möchten ihre Unterstützung nach der Veröffentlichung des Aufrufs zum Ausdruck bringen._
 
 [Dr. Ulfia Lenfers](https://www.haw-hamburg.de/hochschule/beschaeftigte/detail/person/person/show/ulfia-lenfers/) – HAW Hamburg
 
