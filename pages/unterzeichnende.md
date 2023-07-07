@@ -82,3 +82,11 @@
 [Dr. Thomas Sterr](https://stiftung-hochschullehre.de/externe-koepfe/thomas-sterr/) – SRH Hochschule Heidelberg
 
 [Dr. Sanne Ziethen](https://stiftung-hochschullehre.de/externe-koepfe/sanne-ziethen/) – Stiftung Universität Hildesheim
+
+_Die folgenden Unterzeichner:Innen möchten ihre Unterstützung nach der Veröffentlichung des Aufrufs zum Ausdruck bringen_
+
+[Dr. Ulfia Lenfers](https://www.haw-hamburg.de/hochschule/beschaeftigte/detail/person/person/show/ulfia-lenfers/) – HAW Hamburg
+
+[Prof. Dr. Mi-Yong Becker](https://www.hochschule-bochum.de/die-bo/hochschule/praesidium/mitglieder/prof-dr-mi-yong-becker/) – Hochschule Bochum
+
+
