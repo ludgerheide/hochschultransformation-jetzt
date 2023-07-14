@@ -93,4 +93,11 @@ _Die folgenden Unterzeichner:Innen möchten ihre Unterstützung nach der Veröff
 
 [Prof. Dr. Mi-Yong Becker](https://www.hochschule-bochum.de/die-bo/hochschule/praesidium/mitglieder/prof-dr-mi-yong-becker/) – Hochschule Bochum
 
+[Prof. Dr. Alice Gruber](https://www.hs-augsburg.de/International/Alice-Gruber.html) – Hochschule Augsburg
+
+[Prof. Dr.-Ing. Florian Hörmann](https://www.hs-augsburg.de/fmv/Florian-Hoermann.html) – Hochschule Augsburg
+
+[Prof. Dipl.-Ing. Susanne Runkel](https://www.hs-augsburg.de/Architektur-und-Bauwesen/Susanne-Runkel.html) – Hochschule Augsburg
+
+[Prof. Dr. Anja Metzner](https://www.hs-augsburg.de/Informatik/Anja-Metzner.html) – Hochschule Augsburg
 
