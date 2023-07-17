@@ -101,3 +101,6 @@ _Die folgenden Unterzeichner:Innen möchten ihre Unterstützung nach der Veröff
 
 [Prof. Dr. Anja Metzner](https://www.hs-augsburg.de/Informatik/Anja-Metzner.html) – Hochschule Augsburg
 
+[Prof. Dr. Maria Lehner](https://www.hs-augsburg.de/Wirtschaft/Maria-Lehner.html) – Hochschule Augsburg
+
+
