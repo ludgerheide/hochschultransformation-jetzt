@@ -103,4 +103,5 @@ _Die folgenden Unterzeichner:Innen möchten ihre Unterstützung nach der Veröff
 
 [Prof. Dr. Maria Lehner](https://www.hs-augsburg.de/Wirtschaft/Maria-Lehner.html) – Hochschule Augsburg
 
+[Prof. Dr. Maike Sippel](https://www.htwg-konstanz.de/hochschule/personen/maike-sippel/startseite) – Hochschule Konstanz
 
