@@ -105,3 +105,6 @@ _Die folgenden Unterzeichner:Innen möchten ihre Unterstützung nach der Veröff
 
 [Prof. Dr. Maike Sippel](https://www.htwg-konstanz.de/hochschule/personen/maike-sippel/startseite) – Hochschule Konstanz
 
+[Prof. Dr. Marcus Schröter](https://www.hochschule-bochum.de/fbw/team/schroeter/) – Hochschule Bochum
+
+
