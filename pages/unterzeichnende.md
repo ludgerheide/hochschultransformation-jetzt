@@ -107,4 +107,7 @@ _Die folgenden Unterzeichner:Innen möchten ihre Unterstützung nach der Veröff
 
 [Prof. Dr. Marcus Schröter](https://www.hochschule-bochum.de/fbw/team/schroeter/) – Hochschule Bochum
 
+[Margitta Holler](https://www.haw-hamburg.de/hochschule/beschaeftigte/detail/person/person/show/margitta-holler/) – HAW Hamburg
+
+
 
