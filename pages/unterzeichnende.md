@@ -109,5 +109,5 @@ _Die folgenden Unterzeichner:Innen möchten ihre Unterstützung nach der Veröff
 
 [Margitta Holler](https://www.haw-hamburg.de/hochschule/beschaeftigte/detail/person/person/show/margitta-holler/) – HAW Hamburg
 
-
+[Nina Friese](https://www.hochschule-ruhr-west.de/die-hrw/lehre-an-der-hrw/hochschuldidaktik/team/) - Hochschule Ruhr West
 
