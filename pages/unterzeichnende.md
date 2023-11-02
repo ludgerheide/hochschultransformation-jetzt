@@ -111,3 +111,4 @@ _Die folgenden Unterzeichner:Innen möchten ihre Unterstützung nach der Veröff
 
 [Nina Friese](https://www.hochschule-ruhr-west.de/die-hrw/lehre-an-der-hrw/hochschuldidaktik/team/) - Hochschule Ruhr West
 
+[Martina Glauche](https://www.haw-hamburg.de/hochschule/beschaeftigte/detail/person/person/show/martina-glauche/) – HAW Hamburg
