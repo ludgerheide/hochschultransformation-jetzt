@@ -9,6 +9,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.10"
 Nikola = "^8.2.4"
+tomli = "^2.0.1"
 
 
 [build-system]
