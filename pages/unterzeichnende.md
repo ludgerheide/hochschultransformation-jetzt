@@ -115,3 +115,6 @@ _Die folgenden Unterzeichner:Innen möchten ihre Unterstützung nach der Veröff
 
 [Anett Albrecht](https://www.uni-leipzig.de/personenprofil/mitarbeiter/anett-albrecht) – Universität Leipzig
 
+[Dietrich von Tengg-Kobligk](https://www.fu-berlin.de/sites/nachhaltigkeit/stabsstelle/team/24_tengg-kobligk.html) - Freie Universität Berlin
+
+[Prof. Dr. Frank Linde](https://lehrehochn.de/frank-linde/) - TH Köln
