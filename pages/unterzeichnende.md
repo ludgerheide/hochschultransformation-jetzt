@@ -118,3 +118,9 @@ _Die folgenden Unterzeichner:Innen möchten ihre Unterstützung nach der Veröff
 [Dietrich von Tengg-Kobligk](https://www.fu-berlin.de/sites/nachhaltigkeit/stabsstelle/team/24_tengg-kobligk.html) - Freie Universität Berlin
 
 [Prof. Dr. Frank Linde](https://lehrehochn.de/frank-linde/) - TH Köln
+
+[Nicole Engelhardt](https://nicoleengelhardt.de/)
+
+[Dipl.-Oec. Jürgen Lars Sackbrook](https://www.wiwi.tu-clausthal.de/abteilungen/betriebswirtschaftslehre-insbesondere-unternehmensrechnung/ueber-uns/team/dipl-oec-juergen-lars-sackbrook) – TU Clausthal
+
+[Dr. Simon Frisch](https://www.uni-weimar.de/en/media/chairs/media-studies/department-film-and-media-studies/personen/dr-simon-frisch/) – Bauhaus-Universität Weimar
